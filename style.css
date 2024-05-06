@@ -7,8 +7,9 @@
     padding: 24px 0;
     font-size: 24px;
     }
-    background-image: url(https://img.myloview.com.br/adesivos/letras-de-vetor-de-grafite-de-rua-700-123720631.jpg);
+
     .cabeçalho_imagem {
+        background-image: url(https://img.myloview.com.br/adesivos/letras-de-vetor-de-grafite-de-rua-700-123720631.jpg);
     width: 25%;
     height: 25%;
     }
